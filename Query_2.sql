@@ -1,0 +1,10 @@
+CREATE TABLE tb_atributos(
+id BIGINT AUTO_INCREMENT,
+nome VARCHAR (255) NOT NULL,
+funcao VARCHAR (255) NOT NULL,
+salario DECIMAL NOT NULL,
+telefone BIGINT NOT NULL,
+endereco VARCHAR (255) NOT NULL,
+PRIMARY KEY (id)
+);
+

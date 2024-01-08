@@ -1,0 +1,1 @@
+SELECT * FROM tb_atributos WHERE salario > 2000;
